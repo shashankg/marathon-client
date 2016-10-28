@@ -2,9 +2,6 @@ package mesosphere.marathon.client.model.v2;
 
 import mesosphere.marathon.client.utils.ModelUtils;
 
-/**
- * Created by guruprasad.sridharan on 27/11/15.
- */
 public class UpgradeStrategy {
     private Double minimumHealthCapacity;
     private Double maximumOverCapacity;

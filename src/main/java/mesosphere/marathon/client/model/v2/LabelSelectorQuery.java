@@ -7,9 +7,6 @@ import lombok.Singular;
 import java.net.URLEncoder;
 import java.util.*;
 
-/**
- * Created by guruprasad.sridharan on 17/12/15.
- */
 public class LabelSelectorQuery {
     private String query;
 
